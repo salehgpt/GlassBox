@@ -1,0 +1,5 @@
+{
+  "name": "Glassbox-AI | The AI Agent Chat",
+  "description": "An AI chat application where Agent Mode activates a simulated computer. Users converse in chat while watching a live desktop stream of the agent’s environment as it performs tasks, requests approvals, and returns artifacts.",
+  "requestFramePermissions": []
+}
